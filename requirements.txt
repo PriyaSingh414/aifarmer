@@ -9,4 +9,4 @@ numpy
 pandas
 opencv-python
 scikit-learn
-pyaudio>=0.2.11
+
