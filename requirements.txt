@@ -1,10 +1,11 @@
-streamlit==1.46.1
-speechrecognition==3.14.3
-gTTS==2.5.4
-tensorflow==2.19.0 ; python_version < "3.13"
-tf-nightly ; python_version >= "3.13"
-googletrans==3.1.0a0      # stable pre-release recommended
-rich==14.0.0
-markdown-it-py==3.0.0
-mdurl==0.1.2
-pygments==2.19.2
+streamlit
+speechrecognition
+gtts
+tensorflow==2.13.0
+torch==2.1.0
+transformers==4.36.2
+googletrans==4.0.0rc1
+numpy
+pandas
+opencv-python
+scikit-learn
