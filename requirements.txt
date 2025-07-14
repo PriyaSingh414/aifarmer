@@ -1,6 +1,6 @@
 streamlit
-speechrecognition
-gtts
+requests
+gTTS
 tensorflow==2.13.0
 torch==2.1.0
 transformers==4.36.2
@@ -9,4 +9,5 @@ numpy
 pandas
 opencv-python
 scikit-learn
-
+streamlit-mic-recorder           # for easy voice recording
+streamlit-webrtc                 # optional, more powerful
